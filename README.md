@@ -1,7 +1,5 @@
 ### Всем привет 👋
-
-<!--
-**Komaso85/komaso85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут Марина Кондратьева.
 
 - Я начинающий дата аналитик, нацеленный на машинное обучение.
 
